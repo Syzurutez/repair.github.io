@@ -1638,3 +1638,8 @@ body .form-input-btn:active {
     padding: 15px 30px;
   }
 }
+@media (min-width: 971px) {
+  .header__top-nav {
+    margin-left: -2px !important;
+  }
+}
